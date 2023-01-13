@@ -11,5 +11,4 @@ $_SESSION['errors'] = [];
 
 // Include configuration files
 require __DIR__ . '/connect.php';
-require __DIR__ . '/utils/util_functions.php';
-require __DIR__ . '/../models/customer.model.php';
+require __DIR__ . '/../utils/util_functions.php';
