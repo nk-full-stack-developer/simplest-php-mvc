@@ -12,7 +12,8 @@ require __DIR__ . '/../config/config.php';
 
 // Allowed routes/pages
 $allowed = array(
-    'index'
+    'index',
+    'about'
 );
 
 
